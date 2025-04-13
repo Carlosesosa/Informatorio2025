@@ -4,6 +4,7 @@
     background-color: brown;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .navegacion__logo {
